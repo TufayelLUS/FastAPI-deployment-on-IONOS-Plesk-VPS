@@ -43,6 +43,7 @@ Then run:
   pwd: "PUT PASSWORD HERE",
   roles: [ { role: "userAdminAnyDatabase", db: "admin" } , "readWriteAnyDatabase" ]
 })
+> exit
 ```
 Edit the MongoDB configuration file:
 ```bash
